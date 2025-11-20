@@ -18,12 +18,10 @@ mejor análisis de los datos de la empresa.
 Se procedió a realizar tablas de hechos:
 <img width="1636" height="760" alt="image" src="https://github.com/user-attachments/assets/6e7f24de-184b-4d2b-a0f2-31965d85d7e5" />
 
-Se hizo uso de código phyton para relaizar una correlación entre tablas.
+Se hizo uso de código phyton para realizar una correlación entre tablas.
 <img width="1247" height="763" alt="image" src="https://github.com/user-attachments/assets/d93ea03f-fb00-458e-bd99-05961cfa67ca" />
 
-<img width="1247" height="763" alt="image" src="https://github.com/user-attachments/assets/2058ba26-53dd-467a-a868-e09d0a68c656" />
-
-Storytelling:
+**Storytelling:**
 Este análisis muestra el rendimiento de ingresos y ganancias según categorías de productos y países, lo que posibilita determinar cuáles contribuyen más al negocio.  La compañía obtuvo 1.3 millones de ingresos durante el periodo evaluado, de los cuales 453.12 mil corresponden a beneficios. Esto demuestra que la empresa tiene un rendimiento rentable y constante en su cartera de productos.
 Entre 1997 y 1998, el comportamiento de las ventas experimentó cambios significativos. A pesar de que algunas, como los productos lácteos y los mariscos, mostraron fluctuaciones en sus promedios, las categorías más vendidas, por ejemplo, bebidas, confites y productos agrícolas, mantuvieron volúmenes altos. Esta discrepancia indica modificaciones en los hábitos de consumo, la accesibilidad de los productos o elementos relacionados con el precio del mercado.
 La revisión de los ingresos por categorías demuestra que las más importantes son Dairy Products y Beverages, que contienen la mayor parte del valor total. No obstante, tras examinar el promedio de ganancias, se puede notar que los productos lácteos, las aves/carnes y la producción de vegetales se encuentran entre las categorías más rentables. Esto significa que a pesar de que algunas categorías tengan un mayor volumen de ventas, no siempre producen el margen de ganancia más alto.
