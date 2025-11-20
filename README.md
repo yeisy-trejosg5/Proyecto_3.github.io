@@ -18,7 +18,7 @@ mejor análisis de los datos de la empresa.
 Se procedió a realizar tablas de hechos:
 <img width="1636" height="760" alt="image" src="https://github.com/user-attachments/assets/6e7f24de-184b-4d2b-a0f2-31965d85d7e5" />
 
-sSe hizo uso de código phyton para relaizar una correlación entre tablas.
+Se hizo uso de código phyton para relaizar una correlación entre tablas.
 <img width="1247" height="763" alt="image" src="https://github.com/user-attachments/assets/d93ea03f-fb00-458e-bd99-05961cfa67ca" />
 
 <img width="1247" height="763" alt="image" src="https://github.com/user-attachments/assets/2058ba26-53dd-467a-a868-e09d0a68c656" />
