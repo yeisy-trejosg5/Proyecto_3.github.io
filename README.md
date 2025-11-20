@@ -1,7 +1,6 @@
 Base de datos utilizada: NORTHWND.bak
 
-Este proyecto se enfoca en la ejecución de los códigos para realiza realizar limpieza y tranformación de la base de datos. 
-Primeramente se debe cargar la base de datos:
+Este proyecto se enfoca en la ejecución de los códigos para realizar limpieza y tranformación de la base de datos.  Primeramente se debe cargar la base de datos:
 <img width="385" height="763" alt="image" src="https://github.com/user-attachments/assets/36bca7d6-b7eb-4ccc-91d8-2efcf02d98c3" />
 Una vez ya se hayan cargado los datos se procede a abrir la hoja de trabajo:
 <img width="760" height="178" alt="image" src="https://github.com/user-attachments/assets/0e64efa9-99fe-4a4c-87d9-7dea036a034d" />
